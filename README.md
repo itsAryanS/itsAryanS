@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aryan Salge.
 - 👀 I’m intrested in futuristic technologies and making a positive change.
 - 🌱 I’m currently learning Web Development, Data Science, Blockchain Development.
-- 💞️ I’m looking to collaborate on learning blockchain togather.
+- 💞️ I’m looking to collaborate on learning togather.
 - 📫 Reach me - Linkedin : https://www.linkedin.com/in/aryan-salge-46a9a01b9
 
 <!---
